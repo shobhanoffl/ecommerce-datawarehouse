@@ -1,10 +1,16 @@
 # Data Warehouse Design for E-commerce Environments
 
 >## Table of Contents
+>[About Files](#about-files) <br />
 >[Problem Statement](#problem-statement) <br />
 >[Dataset](#dataset) <br />
 >[Technology Involved](#technology-involved) <br />
 >[Final Analysis Report](#analysis-report) <br />
+
+## About Files
+**dagnew.py** - DAG File to Schedule to run Python File on a regular interval
+**sales_data.csv** - Part of Source File
+**test3.py** - Python File for ETL Process
 
 ## Problem Statement
 You will be constructing a data warehouse for a retail e-commerce store in this project. You would also be expected to answer a few particular issues about pricing optimization and inventory allocation in terms of design and implementation. In this project, you'll be attempting to answer the following two questions:
